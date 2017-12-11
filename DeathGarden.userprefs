@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SceneController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\SceneController.cs" Line="28" Column="3" />
+      <File FileName="Assets\Scripts\SoundController.cs" Line="28" Column="3" />
+      <File FileName="Assets\Scripts\SplashScreenController.cs" Line="13" Column="33" />
+      <File FileName="Assets\Scripts\MenuSceneController.cs" Line="12" Column="3" />
+      <File FileName="Assets\Scripts\FadeIn.cs" Line="30" Column="1" />
+      <File FileName="Assets\Scripts\PlayerPrefsManager.cs" Line="41" Column="10" />
+      <File FileName="Assets\Scripts\OptionsSceneController.cs" Line="35" Column="1" />
+      <File FileName="Assets\Scripts\ButtonTextColorStates.cs" Line="31" Column="5" />
+      <File FileName="Assets\Scripts\TextFadeIn.cs" Line="34" Column="3" />
+      <File FileName="Assets\Scripts\LogoAnimationIn.cs" Line="57" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
